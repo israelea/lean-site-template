@@ -1,7 +1,7 @@
 # baseURL should be
 # "https://YOUR-GITHUB-USERNAME.github.io/lean-site-template/" during development,
 # and "your-ea-domain.org/" after your domain has been set up.
-baseURL = "https://rtcharity.github.io/lean-site-template/"
+baseURL = "https://israelea.github.io/lean-site-template/"
 theme = "local-ea-template"
 canonifyURLs = true
 
@@ -18,7 +18,7 @@ DefaultContentLanguage = "en"
 
   [Languages]
   [Languages.en]
-  title = "Local EA Website"
+  title = "Israel EA"
   weight = 1
   languageCode = "en"
 
@@ -29,9 +29,9 @@ DefaultContentLanguage = "en"
 
   [Languages.en.groupinfo]
   ## -- EA GROUP INFO -- ##
-  legalOrgName = "Effective Altruism <City Here>"
-  orgLocations = "this location and that location"
-  contactEmail = "yourEAGroupEmail@here.com"
+  legalOrgName = "Effective Altruism Israel"
+  orgLocations = "Tel Aviv, Israel"
+  contactEmail = "effectivealtruismisrael@gmail.com"
 
   [Languages.en.navbar]
   ## -- NAVIGATION BAR HEADERS -- ##
@@ -86,5 +86,5 @@ DefaultContentLanguage = "en"
   # If your group does not have URLs for these, just add # before the line
   # to remove the link from the site
   facebookUrl = ""
-  twitterUrl = ""
-  meetupUrl = ""
+  #twitterUrl = ""
+  #meetupUrl = ""
