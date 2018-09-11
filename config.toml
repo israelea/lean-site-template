@@ -46,6 +46,7 @@ DefaultContentLanguage = "en"
   keyTerms = "Key Terms"
   organizations = "Organizations"
   contact= "Contact"
+  rand= "Rand"
 
   [Languages.en.pages]
   ## -- PAGE HEADERS -- ##
